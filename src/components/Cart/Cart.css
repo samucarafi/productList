@@ -1,0 +1,34 @@
+.buttonX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  height: 28px;
+  width: 28px;
+  border-radius: 50%;
+}
+
+.buttonConfirm {
+  background-color: hsl(14, 86%, 42%);
+  color: #fff;
+}
+
+.color {
+  color: hsl(14, 86%, 42%);
+}
+.list-cart {
+  background-color: hsl(13, 31%, 94%);
+}
+.orderTotal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.carbon-neutral {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0px;
+  background-color: hsl(13, 31%, 94%);
+}
